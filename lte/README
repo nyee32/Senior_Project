@@ -1,0 +1,3 @@
+Generate asn1c files
+
+asn1c  -S /usr/share/asn1c -fcompound-names -fskeletons-copy -gen-PER -pdu=auto 36331-ac0.asn
